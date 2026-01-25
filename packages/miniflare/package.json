@@ -71,7 +71,7 @@
 		"@types/ws": "^8.5.7",
 		"@typescript-eslint/eslint-plugin": "^6.9.0",
 		"@typescript-eslint/parser": "^6.9.0",
-		"ava": "^6.0.1",
+		"ava": "^6.2.0",
 		"capnpc-ts": "^0.7.0",
 		"concurrently": "^8.2.2",
 		"devalue": "^4.3.0",
